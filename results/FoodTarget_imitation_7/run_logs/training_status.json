@@ -1,0 +1,29 @@
+{
+    "AgentPlayer": {
+        "checkpoints": [
+            {
+                "steps": 278789,
+                "file_path": "results\\FoodTarget_imitation_7\\AgentPlayer\\AgentPlayer-278789.onnx",
+                "reward": 2.3076923076923075,
+                "creation_time": 1622891382.6308002,
+                "auxillary_file_paths": [
+                    "results\\FoodTarget_imitation_7\\AgentPlayer\\AgentPlayer-278789.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 278789,
+            "file_path": "results\\FoodTarget_imitation_7\\AgentPlayer.onnx",
+            "reward": 2.3076923076923075,
+            "creation_time": 1622891382.6308002,
+            "auxillary_file_paths": [
+                "results\\FoodTarget_imitation_7\\AgentPlayer\\AgentPlayer-278789.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
